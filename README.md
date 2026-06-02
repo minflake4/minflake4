@@ -1,47 +1,59 @@
 # flake
 
-```txt
+```bash
+$ whoami
+flake
+
+$ motto
 Turning caffeine into code.
+
+$ current_project
+Kio
+
+$ interests
+AI/ML
+Discord Development
+Linux
+Automation
+
+$ python --version
+yes
+
+$ current_status
+Building something...
 ```
 
-Building things that probably shouldn't work, then making them work anyway.
-
-## What I'm Working On
-
-* 🤖 Building **Kio**
-* 🧠 Exploring AI and machine learning
-* 🐧 Living in the Linux terminal
-* ⚡ Creating Discord bots and automation tools
-
-## Tech Stack
-
-```python
-class Flake:
-    language = "Python"
-
-    interests = [
-        "Artificial Intelligence",
-        "Discord Development",
-        "Linux",
-        "Automation"
-    ]
-
-    current_project = "Kio"
-
-    status = "Building."
+```txt
+┌─────────────────────────────────────┐
+│ SYSTEM STATUS                        │
+├─────────────────────────────────────┤
+│ Project      : Kio                  │
+│ Language     : Python               │
+│ OS           : Linux                │
+│ Focus        : AI & Discord         │
+│ Uptime       : Depends on coffee    │
+└─────────────────────────────────────┘
 ```
 
-## Current Focus
+## About
 
-* Learning how modern AI systems work
-* Designing scalable Discord bot systems
-* Improving backend architecture
-* Breaking things and fixing them again
+I enjoy building things, figuring out how they work, and then rebuilding them better.
 
-## Philosophy
+Currently experimenting with AI, Discord systems, Linux, and whatever catches my attention at 2 AM.
 
-> Build first. Optimize later. Learn forever.
+## Current Objective
 
----
+```bash
+[ ] Launch Kio
+[ ] Add cool features
+[ ] Squash bugs
+[ ] Accidentally create more bugs
+[x] Keep building
+```
 
-*"The best way to understand something is to build it."*
+```txt
+> Connection established.
+> Initializing projects...
+> Loading caffeine...
+> Ready.
+```

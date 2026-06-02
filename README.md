@@ -1,16 +1,47 @@
-## Hi there 👋
+# flake
 
-<!--
-**minflake4/minflake4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```txt
+Turning caffeine into code.
+```
 
-Here are some ideas to get you started:
+Building things that probably shouldn't work, then making them work anyway.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+
+* 🤖 Building **Kio**
+* 🧠 Exploring AI and machine learning
+* 🐧 Living in the Linux terminal
+* ⚡ Creating Discord bots and automation tools
+
+## Tech Stack
+
+```python
+class Flake:
+    language = "Python"
+
+    interests = [
+        "Artificial Intelligence",
+        "Discord Development",
+        "Linux",
+        "Automation"
+    ]
+
+    current_project = "Kio"
+
+    status = "Building."
+```
+
+## Current Focus
+
+* Learning how modern AI systems work
+* Designing scalable Discord bot systems
+* Improving backend architecture
+* Breaking things and fixing them again
+
+## Philosophy
+
+> Build first. Optimize later. Learn forever.
+
+---
+
+*"The best way to understand something is to build it."*
